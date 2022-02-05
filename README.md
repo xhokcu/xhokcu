@@ -5,7 +5,6 @@
 - 📫 How to reach me helinnokcu@gmail.com
 
 ## Connect with me:
-<hr>
 <p>
     <a href="mailto:helinnokcu@gmail.com" rel="stylesheet">
         <img align="left" alt="Helin_Okcu|Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" style="max-width: 100%;padding:10px;">
@@ -24,7 +23,6 @@
 <br>
 
 ## Languages and Tools
-<hr>
 <p>
     <a href="#" rel="stylesheet">
         <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" style="max-width: 100%; padding:10px;">
