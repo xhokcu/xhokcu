@@ -1,12 +1,12 @@
-# Hi there, I'm Helin👋
+## Hi there, I'm Helin👋
 
 - 🤡 I'm a Jr. Front-End Developer with a passion for web design
-- :v: killed in basic design tools
+- :v:  Skilled in basic design tools
 - 🌱 I’m currently learning JavaScript and React.js
 - 📫 How to reach me helinnokcu@gmail.com
 
 
-# Connect with me:
+## :mailbox_closed: Connect with me:
 <p>
     <a href="mailto:helinnokcu@gmail.com" rel="stylesheet">
         <img align="left" alt="Helin_Okcu|Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" style="max-width: 100%;padding:10px;">
@@ -24,8 +24,8 @@
 <br>
 </br>
 
-# Technologies
-## Languages and Tools
+## :point_right: Technologies
+### Languages and Tools
 <p>
     <a href="#" rel="stylesheet">
         <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" style="max-width: 100%;padding:10px;">
@@ -52,7 +52,7 @@
 <br>
 <br>
 
-## Libraries and Frameworks
+### Libraries and Frameworks
 <p>
     <a href="#" rel="stylesheet">
         <img align="left" alt="Bootstrap" title="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg" style="max-width: 100%;padding:10px;">
