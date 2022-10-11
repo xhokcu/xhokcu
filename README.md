@@ -1,8 +1,8 @@
 ## Hi there, I'm Helin👋
 
-- 🤡 I'm a Jr. Front-End Developer with a passion for web design
+- 🤡 I'm a Front-End Developer with a passion for web design
 - :v:  Skilled in basic design tools
-- 🌱 I’m currently learning JavaScript and React.js
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me helinnokcu@gmail.com
 
 
