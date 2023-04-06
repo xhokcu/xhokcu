@@ -1,9 +1,9 @@
 ## Hi there, I'm Helin👋
 
-- 🤡 I'm a Front-End Developer with a passion for web design
-- :v:  Skilled in basic design tools
-- 🌱 I’m currently learning React.js
-- 📫 How to reach me helinnokcu@gmail.com
+Hey there! I'm a React and React Native developer who enjoys creating user-friendly interfaces. <br/>
+I'm always looking for new challenges and opportunities to learn from and collaborate with others. <br/>
+Feel free to reach out to me at helinnokcu@gmail.com or connect with me on https://www.linkedin.com/in/helinokcu/! <br/>
+Thanks for stopping by my profile! 
 
 
 ## :mailbox_closed: Connect with me:
