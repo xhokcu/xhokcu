@@ -35,6 +35,4 @@ international clients.
 
 ## 📊 GitHub Stats
 
-![Helin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhokcu&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xhokcu&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=xhokcu&layout=compact&hide_border=true&theme=default)
