@@ -20,7 +20,6 @@ international clients.
 
 ## 🎓 Education
 
-- MSc Software Engineering — İzmir Katip Çelebi University, Turkey
 - BSc Urban and Regional Planning — Mimar Sinan Fine Arts University, Turkey
 
 ---
